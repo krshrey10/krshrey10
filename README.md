@@ -4,7 +4,7 @@ Aspiring MSc student (Germany 2026) — ML, Data Science, Applied AI, and Game D
 
 🔭 Currently: Finishing a capstone project & polishing GitHub portfolio  
 🌱 Learning: German (A2) | Advanced ML topics | Reproducible research  
-📫 Reach me: krshrey10 (GitHub) · [Email: your-email@example.com]
+📫 Reach me: krshrey10 (GitHub) · [Email: kr.shrey10@gmail.com]
 
 ---
 
