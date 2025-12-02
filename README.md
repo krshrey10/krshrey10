@@ -1,6 +1,12 @@
-# Hi, I'm Shreya K. R. 👋
-**B.Tech (CSE, Data Science)** | Presidency University  
-Aspiring MSc student (Germany 2026) — ML, Data Science, Applied AI, and Game Dev.
+<h1 align="center">Hi, I'm Shreya 👋</h1>
+
+<p align="center">
+  <strong>CSE (Data Science) | Machine Learning • Data Science • AI • Game Development</strong><br>
+  Future MSc Student in Germany · Research-Oriented · Project-Driven Learner
+</p>
+
+<img src="new banner.png" alt="profile banner" style="border-radius:8px;" />
+
 
 🔭 Currently: Finishing a capstone project & polishing GitHub portfolio  
 🌱 Learning: German (A2) | Advanced ML topics | Reproducible research  
