@@ -8,9 +8,11 @@
 <img src="new banner.png" alt="profile banner" style="border-radius:8px;" />
 
 🎓 B.Tech CSE (Data Science)
+
 🇩🇪 Aspiring MSc student in Germany
 
 💡 Data Science & Machine Learning Engineer
+
 🔬 Focused on building scalable systems + research-driven solutions
 
 🔭 Currently: Finishing my final year project & polishing GitHub portfolio  
