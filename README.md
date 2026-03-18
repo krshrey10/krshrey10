@@ -33,11 +33,11 @@ Full-stack platform connecting global Indian diaspora buyers with MSMEs.
 **Stock Price Prediction (LSTM)**
 Built a time-series forecasting model using LSTM, achieving improved prediction accuracy on historical stock data with structured experiment tracking.
 
-- **PixelSaga** — Procedural world generation engine (game dev + deterministic noise systems).
+**PixelSaga** — Procedural world generation engine (game dev + deterministic noise systems).
   
-- **Stock_Price_Prediction_LSTM** — LSTM pipeline, experiment logbook & evaluation.
+**Stock_Price_Prediction_LSTM** — LSTM pipeline, experiment logbook & evaluation.
   
-- **Fake_News_Detection** — NLP pipeline, feature engineering & model benchmarking.
+**Fake_News_Detection** — NLP pipeline, feature engineering & model benchmarking.
 
 ---
 
