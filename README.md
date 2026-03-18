@@ -5,7 +5,7 @@
   Future MSc Student in Germany · Research-Oriented · Project-Driven Learner
 </p>
 
-<img src="new banner.png" alt="profile banner" style="border-radius:8px;" />
+<img src="banner.png.jpeg" alt="profile banner" style="border-radius:8px;" />
 
 🎓 B.Tech CSE (Data Science)
 
