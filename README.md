@@ -16,7 +16,9 @@
 🔬 Focused on building scalable systems + research-driven solutions
 
 🔭 Currently: Finishing my final year project & polishing GitHub portfolio  
-🌱 Learning: German (A2) | Advanced ML topics | Reproducible research  
+
+🌱 Learning: German (A2) | Advanced ML topics | Reproducible research 
+
 📫 Reach me: krshrey10 (GitHub) · [Email: kr.shrey10@gmail.com]
 
 ---
