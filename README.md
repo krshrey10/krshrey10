@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shreya 👋</h1>
 
 <p align="center">
-  <strong>CSE (Data Science) | Machine Learning • Data Science • AI • Game Development</strong><br>
+  <strong>CSE (Data Science) | Machine Learning • Data Science • AI • Computational Biology & Bioinformatics</strong><br>
   · Research-Oriented · Project-Driven Learner
 </p>
 
