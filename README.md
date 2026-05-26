@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>CSE (Data Science) | Machine Learning • Data Science • AI • Game Development</strong><br>
-  Future MSc Student in Germany · Research-Oriented · Project-Driven Learner
+  · Research-Oriented · Project-Driven Learner
 </p>
 
 <img src="banner.png.jpeg" alt="profile banner" style="border-radius:8px;" />
