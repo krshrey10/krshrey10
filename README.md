@@ -34,6 +34,9 @@ Full-stack platform connecting global Indian diaspora buyers with MSMEs.
 - Integrated ML pipelines (Pandas, Scikit-learn)
 - Secure authentication, dashboards, and analytics
 
+**Genomic Data Analysis Dashboard**
+This project analyzes gene expression data (RNA-seq ) to identify patterns, differential expression, and potential biomarkers. The analysis is performed in Python, and results are visualized in an interactive dashboard (Power BI).
+
 **Stock Price Prediction (LSTM)**
 Built a time-series forecasting model using LSTM, achieving improved prediction accuracy on historical stock data with structured experiment tracking.
 
@@ -54,11 +57,13 @@ Built a time-series forecasting model using LSTM, achieving improved prediction 
 
 ---
 
-## 🔬 Research Interests
+## 🧬 Research Interests
 
+- Applied Machine Learning
+- Computational Biology & Bioinformatics
+- Data-driven Healthcare Systems
 - Machine Learning & NLP
-- Reproducible research systems
-- Data-driven platform design
+- Reproducible research systems 
 ---
 
 ## 🎯 What I Value
